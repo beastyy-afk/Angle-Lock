@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "fakepixelgarden",
+    "name": "Fakepixel Garden",
+    "description": "View angle lock + a 9-slot keybind system for sending chat commands (e.g. /sethome, /warp garden).",
+    "version": "1.0.0",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["you"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
